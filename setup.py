@@ -6,6 +6,6 @@ setup(name='ii_tools',
       url='https://github.com/ideallical/ii_tools',
       author='ideallical',
       author_email='info@ideallical.com',
-      license='MIT',
+      license='BSD',
       packages=['ii_tools'],
       zip_safe=False)
