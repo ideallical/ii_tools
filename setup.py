@@ -7,5 +7,8 @@ setup(name='ii_tools',
       author='ideallical',
       author_email='info@ideallical.com',
       license='BSD',
+      install_requires=[
+            'six>=1.10.0',
+      ],
       packages=['ii_tools'],
       zip_safe=False)
