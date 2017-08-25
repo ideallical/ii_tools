@@ -1,5 +1,7 @@
 # ideallical tools
 
+[![build-status-image]][travis]
+
 ## Yet another remove capitals except the letters D, S & Q function
 Because the world needs less capitals, except D, S & Q.
 
@@ -31,3 +33,5 @@ If you believe you've found something in ii_tools which has security
 implications, please **do not raise the issue in a public forum**.
 
 Send a description of the issue via email to [ii_tools-security@ideallical.com][security-mail]. The project maintainers will then work with you to resolve any issues where required, prior to any public disclosure.
+
+[travis]: http://travis-ci.org/ideallical/ii_tools?branch=master
