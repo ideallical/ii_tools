@@ -7,7 +7,7 @@ Because the world needs less capitals, except D, S & Q.
 
 ## Requirements
 
-* Python (3.5, 3.6)
+* Python (2.7, 3.4, 3.5)
 
 ## Installation
 
