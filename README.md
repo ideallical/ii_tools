@@ -35,3 +35,7 @@ implications, please **do not raise the issue in a public forum**.
 Send a description of the issue via email to [ii_tools-security@ideallical.com][security-mail]. The project maintainers will then work with you to resolve any issues where required, prior to any public disclosure.
 
 [travis]: http://travis-ci.org/ideallical/ii_tools?branch=master
+
+[build-status-image]: https://secure.travis-ci.org/ideallical/ii_tools.svg?branch=master
+[travis]: http://travis-ci.org/ideallical/ii_tools?branch=master
+[security-mail]: mailto:ii_tools-security@ideallical.com
