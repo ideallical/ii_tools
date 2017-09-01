@@ -1,0 +1,20 @@
+[run]
+omit =
+    setup.py
+
+[report]
+exclude_lines =
+    pragma: no cover
+
+    # Don't complain about missing debug-only code:
+    def __repr__
+    if settings\.DEBUG
+
+    # Don't complain if tests don't hit defensive assertion code:
+    raise AssertionError
+    raise NotImplementedError
+    except ImportError
+
+    # Don't complain if non-runnable code isn't run:
+    if 0:
+    if __name__ == .__main__.:
