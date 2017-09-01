@@ -43,5 +43,5 @@ Send a description of the issue via email to [ii_tools-security@ideallical.com][
 [security-mail]: mailto:ii_tools-security@ideallical.com
 [pypi-version]: https://img.shields.io/pypi/v/ii_tools.svg
 [pypi]: https://pypi.python.org/pypi/ii_tools
-[coverage-status-image]: https://img.shields.io/codecov/c/github/ideallical/ii-tools/master.svg
-[codecov]: http://codecov.io/github/encode/django-rest-framework?branch=master
+[coverage-status-image]: https://img.shields.io/codecov/c/github/ideallical/ii_tools/master.svg
+[codecov]: http://codecov.io/github/ideallical/ii_tools?branch=master
