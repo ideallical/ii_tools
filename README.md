@@ -1,6 +1,7 @@
 # ideallical tools
 
 [![build-status-image]][travis]
+[![pypi-version]][pypi]
 
 ## Yet another remove capitals except the letters D, S & Q function
 Because the world needs less capitals, except D, S & Q.
@@ -39,3 +40,5 @@ Send a description of the issue via email to [ii_tools-security@ideallical.com][
 [build-status-image]: https://secure.travis-ci.org/ideallical/ii_tools.svg?branch=master
 [travis]: http://travis-ci.org/ideallical/ii_tools?branch=master
 [security-mail]: mailto:ii_tools-security@ideallical.com
+[pypi-version]: https://img.shields.io/pypi/v/ii_tools.svg
+[pypi]: https://pypi.python.org/pypi/ii_tools
