@@ -17,6 +17,7 @@ def remove_all_capitals_except_dsq(string_value):
     """
     if isinstance(string_value, string_types):
         return ''.join(
-            [c for c in string_value if (c not in string.ascii_uppercase) or c in 'DSQ'])
+            [c for c in string_value if (
+                c not in string.ascii_uppercase) or c in 'DSQ'])
     else:
         raise ValueError
