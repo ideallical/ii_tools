@@ -2,6 +2,7 @@
 
 [![build-status-image]][travis]
 [![coverage-status-image]][codecov]
+[![readthedocs-image]][readthedocs]
 [![pypi-version]][pypi]
 
 ## Yet another remove capitals except the letters D, S & Q function
@@ -29,6 +30,10 @@ Let's take a look at a quick example of using ii_tools.
     >>> 'orem ipsum DunsimQ'
 
 
+# Documentation
+
+Full documentation for the project is available at [ii-tools.readthedocs.io][readthedocs]
+
 # Security
 
 If you believe you've found something in ii_tools which has security
@@ -45,3 +50,5 @@ Send a description of the issue via email to [ii_tools-security@ideallical.com][
 [pypi]: https://pypi.python.org/pypi/ii_tools
 [coverage-status-image]: https://img.shields.io/codecov/c/github/ideallical/ii_tools/master.svg
 [codecov]: http://codecov.io/github/ideallical/ii_tools?branch=master
+[readthedocs-image]: https://readthedocs.org/projects/ii-tools/badge/?version=latest
+[readthedocs]:https://ii-tools.readthedocs.io/en/latest/
